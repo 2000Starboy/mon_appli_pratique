@@ -40,28 +40,28 @@ Voici quelques aperçus de l'application personnalisée sur un simulateur iOS (o
 
 L'écran principal de l'application avec le nouveau thème.
 
-<img width="1290" height="2796" alt="accueil" src="https://github.com/user-attachments/assets/d3468d15-e358-414d-a6b3-320884900f0c" />
+<img width="1290" height="2796" alt="accueil" src="https://github.com/user-attachments/assets/a1416964-067d-43b8-a27a-2178809382f0" />
 
 
 ### 2. Tiroir de Navigation Latéral
 
 Le menu latéral permettant de naviguer entre les différentes pages de l'application.
 
-<img width="1290" height="2796" alt="Drawer" src="https://github.com/user-attachments/assets/92381e13-7d01-4d52-a5ac-95d40024554b" />
+<img width="1290" height="2796" alt="Drawer" src="https://github.com/user-attachments/assets/9eba6d4c-9447-40ee-b45f-d5fd897763a7" />
 
 
 ### 3. Page Compteur
 
 La page de démonstration du compteur avec ses boutons d'interaction.
 
-<img width="1290" height="2796" alt="Compteur" src="https://github.com/user-attachments/assets/6fcf3622-33a4-455d-83b4-e743dca2ab25" />
+<img width="1290" height="2796" alt="Compteur" src="https://github.com/user-attachments/assets/2a6f8af5-cdff-4076-8ce6-224c7e871f08" />
 
 
 ### 4. Page de Récupération de Données
 
 La page affichant les données récupérées depuis l'API externe (DummyJSON.com).
 
-<img width="1290" height="2796" alt="fetch" src="https://github.com/user-attachments/assets/4cb0a4e2-8ff6-49c8-ab19-ed96ce10d198" />
+<img width="1290" height="2796" alt="fetch" src="https://github.com/user-attachments/assets/d82ec252-f051-47ed-b1f9-2ffb8f79554b" />
 
 
 ---
@@ -118,8 +118,3 @@ Pour configurer et exécuter ce projet localement :
 * **Compteur :** Sur la page "Compteur", utilisez les boutons `+` et `-` pour modifier la valeur du compteur.
 * **Récupération de Données :** La page "Récupération de Données" chargera automatiquement une liste de produits au démarrage. Vous pouvez appuyer sur l'icône d'actualisation dans la barre d'applications pour recharger les données.
 
----
-
-##  Licence
-
-(Optionnel : Insérez les informations de votre licence ici, par exemple : "Ce projet est sous licence MIT - voir le fichier LICENSE.md pour plus de détails.")
